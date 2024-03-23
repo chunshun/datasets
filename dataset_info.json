@@ -1,11 +1,9 @@
 {
-   
-
     "self_cognition": {
         "file_name": "self_cognition.json",
         "file_sha1": "6287a730ada924fc5d9eadc6d8f865e01b7a6f67"
     },
-    
+
     "sharegpt_zh": {
         "file_name": "sharegpt_zh_27k.json",
         "file_sha1": "baf766bcf3d61f1b783728c14ce695af57a86e6e",
@@ -88,7 +86,7 @@
     "novel_tokens512_50k": {
         "hf_hub_url": "zxbsmk/webnovel_cn"
     },
-   
+
     "hh_rlhf_en": {
         "script_url": "hh_rlhf_en",
         "columns": {
@@ -97,7 +95,5 @@
             "response": "output",
             "history": "history"
         }
-    },
-    
-   
+    }
 }
